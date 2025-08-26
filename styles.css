@@ -1,6 +1,6 @@
 @FONT-FACE{
 	font-family: SourceSansPro-Regular;
-	src: local("C:\Users\graem\Documents\Website\source-sans-pro\SourceSansPro-Regular.otf"), url("SourceSansPro-Regular.otf");
+	src: url("https://raw.githubusercontent.com/GurtenFroggen/FLICC/main/source-sans-pro/SourceSansPro-Regular.otf");
 }
 .usdaSection1{
 	padding: 25px;
