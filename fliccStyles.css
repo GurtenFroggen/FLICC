@@ -1,0 +1,50 @@
+@FONT-FACE{
+	font-family: SourceSansPro-Regular;
+	src: url("https://raw.githubusercontent.com/GurtenFroggen/FLICC/main/source-sans-pro/SourceSansPro-Regular.otf");
+}
+@FONT-FACE{
+	font-family: "Public Sans";
+	src: url("https://raw.githubusercontent.com/GurtenFroggen/FLICC/main/public-sans-v2.001/fonts/otf/PublicSans-Regular.otf");
+}
+body{
+	font-family: "Verdana";
+	font-size 14.0pt;
+	
+}
+.fliccHead{
+	font-family: "Times New Roman";
+	font-style: italic;
+	font-style: bold;
+	text-align: center;
+}
+.fliccNav{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: #F5CE38;
+	background-image: url('https://static.webstarts.com/library/menus/menu-v2.7/menu_templates/images/vista.png');
+	padding: 8px;
+	text-align: center;
+	margin: autol;
+}
+	
+}
+.fliccNav div{
+	background-color: #f1f1f1;
+	border: 1px solid black;
+	padding: 20px;
+	font-size: 30px;
+}
+.fliccText {
+	text-align: center;
+	margin: bottom;
+	font-size: 20px;
+}
+.form{
+	text-align: center;
+	margin: center;
+	font-size: 20px;
+}
+.textForm{
+	height: 200px;
+	width: 40%;
+}
